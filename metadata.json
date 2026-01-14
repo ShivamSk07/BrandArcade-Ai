@@ -1,0 +1,7 @@
+{
+  "name": "BrandArcade AI",
+  "description": "Premium brand growth ecosystem powered by shivam.ai neural models.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
